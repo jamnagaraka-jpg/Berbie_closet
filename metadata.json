@@ -1,0 +1,8 @@
+{
+  "name": "Remix BERBIECLOSET",
+  "description": "Distinctive Nigerian womenswear for women who move with intention. Discover the BERBIECLOSET edit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
